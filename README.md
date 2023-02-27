@@ -1,1 +1,1 @@
-# newvibeAI
+# vibeAI
